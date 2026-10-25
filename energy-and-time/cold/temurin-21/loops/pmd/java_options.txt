@@ -1,0 +1,1 @@
+-XX:+UseG1GC -Xms198m -Xmx198m

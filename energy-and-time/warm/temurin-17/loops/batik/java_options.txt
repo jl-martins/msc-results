@@ -1,0 +1,1 @@
+-XX:+UseG1GC -Xms370m -Xmx370m

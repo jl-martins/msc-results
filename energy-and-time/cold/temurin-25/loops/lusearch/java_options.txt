@@ -1,0 +1,1 @@
+-XX:+UseG1GC -Xms42m -Xmx42m

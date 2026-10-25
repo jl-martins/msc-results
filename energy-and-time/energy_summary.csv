@@ -1,0 +1,4 @@
+Variant,Scenario,Benchmarks,Median_Difference_Percent,Median_Difference_Percent_CI_Low,Median_Difference_Percent_CI_High,Increase,Decrease,Inconclusive
+streams,Cold,15,14.832300574174177,4.857177635473166,56.8032812577478,62,5,1
+streams,Warm,15,14.577563250164498,5.564134155374018,104.55324573279277,59,0,9
+streams,All,15,14.577563250164498,5.795712205010027,80.24344332741602,121,5,10
