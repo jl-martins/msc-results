@@ -1,0 +1,10 @@
+{
+  "config_sha256": "b24700c1da9e024620f919680e48572121678a4011c724f937c8b9fa5258a55c",
+  "inputs": {
+    "analysis/hot_loops.csv": "b3a3d1314d6faf74a7e11e3f385e97a51b3423058a3ec5f3bab1bd7da71bb99c",
+    "analysis/summary.csv": "cf7a1255fd292f7a51514d5de0696eaf04d9c895efb5084fcf96e83c6b6cc49d",
+    "classification.csv": "cf36cfd5aa890273ca485dc0d23c8b0ecc650550d7b8424483629ba46406f072"
+  },
+  "jar_version": "23.11-MR2-chopin-jlm-loops",
+  "tool_version": "0.1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "config_sha256": "b24700c1da9e024620f919680e48572121678a4011c724f937c8b9fa5258a55c",
+  "inputs": {
+    "analysis/hot_loops.csv": "b3a3d1314d6faf74a7e11e3f385e97a51b3423058a3ec5f3bab1bd7da71bb99c"
+  },
+  "jar_version": "23.11-MR2-chopin-jlm-streams",
+  "tool_version": "0.1.0"
+}
