@@ -34,6 +34,8 @@ energy-and-time/
             └── *_forest_plot.pgf         # energy effect sizes and their CIs, by benchmark
 ```
 
+The `.pgf` plots use NewsGotT, the official font of the University of Minho, which the university [provides for download](https://www.ics.uminho.pt/pt/Comunicacao/Documents/NewsGotT.zip). The files do not load the font themselves, so the including LaTeX document must set it as its main font (for example, with `fontspec`, as the comment at the top of each file shows). Other fonts can make labels overlap or leave uneven gaps because the text positions are fixed and their glyph widths may differ.
+
 Each `temurin-<N>` directory holds the results of Eclipse Temurin `<N>`, a build of Java `<N>`. `java_version.txt` gives the exact release.
 
 Not every benchmark is compatible with every Java version (dissertation, Table 3). Temurin 8 runs 9 benchmarks, Temurin 25 runs 14 (all but cassandra), and the other JDKs run all 15.

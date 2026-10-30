@@ -28,7 +28,7 @@
 %%     \normalsize
 %%   }
 %%   \usepackage{fontspec}
-%%   \setmainfont{NewsGotT.ttf}[Path=\detokenize{~/Projects/masters-thesis/dissertation/},BoldFont=NewsGotTBold.ttf]
+%%   \setmainfont{NewsGotT.ttf}[BoldFont=NewsGotTBold.ttf]
 %%   \makeatletter\@ifpackageloaded{underscore}{}{\usepackage[strings]{underscore}}\makeatother
 %%
 \begingroup%
